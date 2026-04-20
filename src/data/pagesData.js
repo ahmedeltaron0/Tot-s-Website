@@ -32,7 +32,7 @@ export const pagesData = [
   },
   {
     id: 2,
-    title: "gorwing togather, sharing each moment",
+    title: "Growing Together, Sharing Each Moment",
     message:
       "I love the way you laugh, the way your eyes light up when you talk about things you care about. I love your kindness, your warmth, and every little detail that makes you who you are.",
     mediaType: "image",
@@ -44,7 +44,7 @@ export const pagesData = [
   },
   {
     id: 3,
-    title: "Our beginning Story",
+    title: "Our Beginning Story",
     message:
       "Remember that time we couldn't stop laughing? That moment lives in my heart forever. Every memory with you is a treasure I never want to forget.",
     mediaType: "image",
