@@ -27,8 +27,7 @@ export const pagesData = [
     mediaSrc: "/assets/page1.png",
     placeholder: "What do you remember about our first moment together?",
     accentColor: "#f8b4c6",
-    accentGradient: "from-pink-500/20 to-rose-500/20",
-    icon: "✨",
+    accentGradient: "from-pink-500/20 to-rose-500/20"
   },
   {
     id: 2,
@@ -39,8 +38,7 @@ export const pagesData = [
     mediaSrc: "/assets/page2.jpg",
     placeholder: "What do you love most about us?",
     accentColor: "#e8788a",
-    accentGradient: "from-rose-500/20 to-red-500/20",
-    icon: "💝",
+    accentGradient: "from-rose-500/20 to-red-500/20"
   },
   {
     id: 3,
@@ -51,8 +49,7 @@ export const pagesData = [
     mediaSrc: "/assets/page3.jpg",
     placeholder: "What is your favorite memory of us?",
     accentColor: "#d4a574",
-    accentGradient: "from-amber-500/20 to-orange-500/20",
-    icon: "🌟",
+    accentGradient: "from-amber-500/20 to-orange-500/20"
   },
   {
     id: 4,
@@ -63,8 +60,7 @@ export const pagesData = [
     mediaSrc: "/assets/page4.JPG",
     placeholder: "What promise would you make to me?",
     accentColor: "#e8d5f5",
-    accentGradient: "from-purple-500/20 to-violet-500/20",
-    icon: "🤝",
+    accentGradient: "from-purple-500/20 to-violet-500/20"
   },
   {
     id: 5,
@@ -75,8 +71,7 @@ export const pagesData = [
     mediaSrc: "/assets/page5.JPG",
     placeholder: "What is your biggest dream for us?",
     accentColor: "#a8d8ea",
-    accentGradient: "from-sky-500/20 to-cyan-500/20",
-    icon: "🌙",
+    accentGradient: "from-sky-500/20 to-cyan-500/20"
   },
   {
     id: 6,
@@ -87,8 +82,7 @@ export const pagesData = [
     mediaSrc: "/assets/page6.JPG",
     placeholder: "Write a letter from your heart to me...",
     accentColor: "#f5c6d0",
-    accentGradient: "from-pink-500/20 to-fuchsia-500/20",
-    icon: "💌",
+    accentGradient: "from-pink-500/20 to-fuchsia-500/20"
   },
 ];
 
