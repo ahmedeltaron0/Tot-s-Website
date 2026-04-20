@@ -90,7 +90,7 @@ export const finalPageConfig = {
   title: "Our Love Story",
   subtitle: "A journey through our hearts",
   mediaType: "video",
-  mediaSrc: "https://drive.google.com/uc?export=download&id=1hV-VxsOpDr_tgV6Neggjh2WgLhvYE5hZ",
+  mediaSrc: "https://dl.dropboxusercontent.com/scl/fi/mpvnqz1snm90shd3qnfny/Final.mp4?rlkey=hivjtdlip4lwcww1ttm884vn8",
   closingMessage:
     "Thank you for every moment, every word, every heartbeat we share. This is just the beginning of our forever. I love you more than words could ever say. 💕",
   restartButtonText: "Relive Our Story",
